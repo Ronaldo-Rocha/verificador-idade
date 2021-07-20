@@ -1,0 +1,1 @@
+Verificador de idade e genero, com base na idade a imagem carregada é trocada.
